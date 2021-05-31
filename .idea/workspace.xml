@@ -19,8 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b980962-94ab-44f8-af2b-7ec62b50dc52" name="Default Changelist" comment="">
+    <list default="true" id="5b980962-94ab-44f8-af2b-7ec62b50dc52" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/107_interview_demo7/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_demo/demo2.go" beforeDir="false" afterPath="$PROJECT_DIR$/2_demo/demo2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/75_leetcode766/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/75_leetcode766/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/85_leetcode1018/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/85_leetcode1018/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/89_leetcode189/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/89_leetcode189/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +43,14 @@
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -63,6 +77,72 @@
       <recent name="F:\go\module\github.com\nm2006717\the-way-to-go" />
     </key>
   </component>
+  <component name="RunManager" selected="Go 构建.go build the-way-to-go/186_interview_demo86">
+    <configuration name="go build demo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="the-way-to-go" />
+      <working_directory value="$PROJECT_DIR$/72_leecote_88" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <package value="the-way-to-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/72_leecote_88/demo.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-way-to-go/182_interview_demo82" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-way-to-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-way-to-go/182_interview_demo82" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/182_interview_demo82/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-way-to-go/183_interview_demo83" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-way-to-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-way-to-go/183_interview_demo83" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/183_interview_demo83/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-way-to-go/184_interview_demo84" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-way-to-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-way-to-go/184_interview_demo84" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/184_interview_demo84/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-way-to-go/185_interview_demo85" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-way-to-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-way-to-go/185_interview_demo85" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/185_interview_demo85/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-way-to-go/186_interview_demo86" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-way-to-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-way-to-go/186_interview_demo86" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/186_interview_demo86/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build the-way-to-go/186_interview_demo86" />
+        <item itemvalue="Go 构建.go build the-way-to-go/185_interview_demo85" />
+        <item itemvalue="Go 构建.go build the-way-to-go/184_interview_demo84" />
+        <item itemvalue="Go 构建.go build the-way-to-go/183_interview_demo83" />
+        <item itemvalue="Go 构建.go build the-way-to-go/182_interview_demo82" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -81,5 +161,81 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/120_interview_demo20/main.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/141_interview_demo41/main.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/142_interview_demo42/main.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/143_interview_demo43/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/145_interview_demo45/main.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/149_interview_demo49/main.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/154_interview_demo54/main.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/154_interview_demo54/main.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/159_interview_demo59/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/164_interview_demo64/main.go</url>
+          <line>3</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/169_interview_demo69/main.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/171_interview_demo71/main.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/180_interview_demo80/main.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/181_interview_demo81/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
