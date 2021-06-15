@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b980962-94ab-44f8-af2b-7ec62b50dc52" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/107_interview_demo7/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_demo/demo2.go" beforeDir="false" afterPath="$PROJECT_DIR$/2_demo/demo2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/75_leetcode766/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/75_leetcode766/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/85_leetcode1018/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/85_leetcode1018/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/89_leetcode189/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/89_leetcode189/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +71,7 @@
       <recent name="F:\go\module\github.com\nm2006717\the-way-to-go" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build the-way-to-go/186_interview_demo86">
+  <component name="RunManager" selected="Go 构建.go build the-way-to-go/256_goroutine_demo1">
     <configuration name="go build demo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="the-way-to-go" />
       <working_directory value="$PROJECT_DIR$/72_leecote_88" />
@@ -88,58 +82,58 @@
       <filePath value="$PROJECT_DIR$/72_leecote_88/demo.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build the-way-to-go/182_interview_demo82" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build the-way-to-go/252_interview_demo152" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-way-to-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="the-way-to-go/182_interview_demo82" />
+      <package value="the-way-to-go/252_interview_demo152" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/182_interview_demo82/main.go" />
+      <filePath value="$PROJECT_DIR$/252_interview_demo152/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build the-way-to-go/183_interview_demo83" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build the-way-to-go/253_interview_demo153" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-way-to-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="the-way-to-go/183_interview_demo83" />
+      <package value="the-way-to-go/253_interview_demo153" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/183_interview_demo83/main.go" />
+      <filePath value="$PROJECT_DIR$/253_interview_demo153/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build the-way-to-go/184_interview_demo84" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build the-way-to-go/254_interview_demo154" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-way-to-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="the-way-to-go/184_interview_demo84" />
+      <package value="the-way-to-go/254_interview_demo154" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/184_interview_demo84/main.go" />
+      <filePath value="$PROJECT_DIR$/254_interview_demo154/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build the-way-to-go/185_interview_demo85" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build the-way-to-go/255_interview_demo155" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-way-to-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="the-way-to-go/185_interview_demo85" />
+      <package value="the-way-to-go/255_interview_demo155" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/185_interview_demo85/main.go" />
+      <filePath value="$PROJECT_DIR$/255_interview_demo155/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build the-way-to-go/186_interview_demo86" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build the-way-to-go/256_goroutine_demo1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-way-to-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="the-way-to-go/186_interview_demo86" />
+      <package value="the-way-to-go/256_goroutine_demo1" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/186_interview_demo86/main.go" />
+      <filePath value="$PROJECT_DIR$/256_goroutine_demo1/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build the-way-to-go/186_interview_demo86" />
-        <item itemvalue="Go 构建.go build the-way-to-go/185_interview_demo85" />
-        <item itemvalue="Go 构建.go build the-way-to-go/184_interview_demo84" />
-        <item itemvalue="Go 构建.go build the-way-to-go/183_interview_demo83" />
-        <item itemvalue="Go 构建.go build the-way-to-go/182_interview_demo82" />
+        <item itemvalue="Go 构建.go build the-way-to-go/256_goroutine_demo1" />
+        <item itemvalue="Go 构建.go build the-way-to-go/255_interview_demo155" />
+        <item itemvalue="Go 构建.go build the-way-to-go/254_interview_demo154" />
+        <item itemvalue="Go 构建.go build the-way-to-go/253_interview_demo153" />
+        <item itemvalue="Go 构建.go build the-way-to-go/252_interview_demo152" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +228,71 @@
           <url>file://$PROJECT_DIR$/181_interview_demo81/main.go</url>
           <line>7</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/213_interview_demo113/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/215_interview_demo115/main.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/226_interview_demo126/main.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/227_interview_demo127/main.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/231_interview_demo131/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://C:/Go/src/strings/strings.go</url>
+          <line>858</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://C:/Go/src/strings/strings.go</url>
+          <line>820</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://C:/Go/src/strings/strings.go</url>
+          <line>739</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/244_interview_demo144/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/248_interview_demo148/main.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/251_interview_demo151/main.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/254_interview_demo154/main.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/255_interview_demo155/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
